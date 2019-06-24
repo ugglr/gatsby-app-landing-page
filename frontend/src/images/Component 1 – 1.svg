@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1329" viewBox="0 0 1920 1329">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="1920" height="1329" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Component_1_1" data-name="Component 1 – 1" clip-path="url(#clip-path)">
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="1920" height="971" fill="#ff153d"/>
+    <path id="Polygon_1" data-name="Polygon 1" d="M741.5,0,1483,358H0Z" transform="translate(1483 1329) rotate(-180)" fill="#ff153d"/>
+  </g>
+</svg>

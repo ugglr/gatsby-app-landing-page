@@ -1,0 +1,8 @@
+.jumbotron {
+  color: #fff;
+  height: 122vh;
+  width: 100%;
+  position: relative;
+  background: url("../images/Component\ 1\ –\ 2.svg") no-repeat;
+  background-size: cover;
+}

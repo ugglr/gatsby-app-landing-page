@@ -1,9 +1,10 @@
 .nav-container {
   width: 100%;
-  padding: 0 3rem;
+  padding: 1rem 3rem;
   font-size: 1.6rem;
   color: #fff;
-  position: relative;
+  position: absolute;
+  z-index: 1;
 }
 
 .nav-ul {
@@ -13,8 +14,18 @@
 }
 
 .nav-ul li {
+  text-align: center;
   display: inline;
   margin-right: 3rem;
+}
+
+.nav-ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.nav-ul li a:hover {
+  color: #f1f1f1;
 }
 
 .float-right {

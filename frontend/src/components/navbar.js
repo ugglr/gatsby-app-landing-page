@@ -8,9 +8,15 @@ export default function navbar() {
       <div className="nav-container">
         <ul className="nav-ul">
           <li>Company Name</li>
-          <li className="float-right">Menu1</li>
-          <li className="float-right">Menu2</li>
-          <li className="float-right">Menu3</li>
+          <li className="float-right">
+            <a href="/">Menu1</a>
+          </li>
+          <li className="float-right">
+            <a href="/">Menu2</a>
+          </li>
+          <li className="float-right">
+            <a href="/">Menu3</a>
+          </li>
         </ul>
       </div>
     </>
